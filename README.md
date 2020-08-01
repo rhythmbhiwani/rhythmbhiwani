@@ -1,6 +1,8 @@
 ### Hey Everyone 👋
-#### Check out my skills
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rhythmbhiwani" alt="rhythmbhiwani" /></p>
+
+#### Check out my skills
 
 ![GitHub Profile](https://github.com/rhythmbhiwani/rhythmbhiwani/blob/master/user_profile.png)
 
