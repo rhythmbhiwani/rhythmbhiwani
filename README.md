@@ -6,4 +6,12 @@
 
 ![GitHub Profile](https://github.com/rhythmbhiwani/rhythmbhiwani/blob/master/user_profile.png)
 
+---
+
+#### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rhythmbhiwani&show_icons=true" alt="rhythmbhiwani" /></p>
