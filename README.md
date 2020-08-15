@@ -8,10 +8,14 @@
 
 ---
 
-#### Latest YouTube Videos
+#### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rhythmbhiwani&show_icons=true" alt="rhythmbhiwani" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rhythmbhiwani&show_icons=true&hide_border=true&count_private=true" alt="rhythmbhiwani" /></p>
+
+---
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmbhiwani&layout=compact)
