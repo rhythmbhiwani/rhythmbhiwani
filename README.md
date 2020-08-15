@@ -22,4 +22,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmbhiwani&layout=compact)](https://github.com/rhythmbhiwani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmbhiwani)](https://github.com/rhythmbhiwani)
