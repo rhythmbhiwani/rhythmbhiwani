@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#5 Data Types in Python & Arithmetic Operators on int - Python for Absolute Beginners](https://www.youtube.com/watch?v=5nsHSKGVxMY)
 - [#4 Getting Started With Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=sYAljFCUNDI)
 - [#3 Installing Python on Windows & Linux and First Python Program - Python for Absolute Beginners](https://www.youtube.com/watch?v=6VKN7T9lO7o)
 - [#2 What is Programming & Why to Learn Python? - Python For Absolute Beginners](https://www.youtube.com/watch?v=NqsxVvRRCOc)
 - [#1 Course Introduction - Python For Absolute Beginners](https://www.youtube.com/watch?v=oFvR-3XI20g)
-- [Logic Decode Channel Trailer 📱  💻](https://www.youtube.com/watch?v=GkotFR3KC8o)
 <!-- YOUTUBE:END -->
 
 ---
