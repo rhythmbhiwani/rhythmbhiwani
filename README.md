@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#9 Tuple, Set & Boolean in Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=u1ozwBaqOtc)
 - [#8 Dictionary in Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=iamjOWDAIzQ)
 - [#7 Lists in Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=TTjrnooFNeU)
 - [#6 Strings in Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=ak4xQttQ9_s)
 - [#5 Data Types in Python & Arithmetic Operators on int - Python for Absolute Beginners](https://www.youtube.com/watch?v=5nsHSKGVxMY)
-- [#4 Getting Started With Python - Python for Absolute Beginners](https://www.youtube.com/watch?v=sYAljFCUNDI)
 <!-- YOUTUBE:END -->
 
 ---
