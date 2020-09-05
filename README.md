@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#19 OOPs in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=7o37l-BLUR4)
 - [#18 Using PIP and making our own Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=iGNBxekvwl8)
 - [#17 Introduction to Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=hEzmwLfcEQU)
 - [#16 Logic Building using Functions - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=6dIve-z5vp0)
 - [#15 Functions in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=MjfXGQOpWVs)
-- [#14 FLAMES Game - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=_zFw7p_lY4Y)
 <!-- YOUTUBE:END -->
 
 ---
