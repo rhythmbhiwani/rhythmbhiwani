@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#20 Inheritance and Special Methods - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=8eANXHOOr_I)
 - [#19 OOPs in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=7o37l-BLUR4)
 - [#18 Using PIP and making our own Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=iGNBxekvwl8)
 - [#17 Introduction to Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=hEzmwLfcEQU)
 - [#16 Logic Building using Functions - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=6dIve-z5vp0)
-- [#15 Functions in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=MjfXGQOpWVs)
 <!-- YOUTUBE:END -->
 
 ---
