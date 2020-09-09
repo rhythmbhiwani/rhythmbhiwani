@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#22 Error and Exception Handling - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=Q-uott394ns)
 - [#21 File Handling in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=MSkd9HhUEvg)
 - [#20 Inheritance and Special Methods - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=8eANXHOOr_I)
 - [#19 OOPs in Python - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=7o37l-BLUR4)
 - [#18 Using PIP and making our own Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=iGNBxekvwl8)
-- [#17 Introduction to Modules - Python for Absolute Beginners 2021](https://www.youtube.com/watch?v=hEzmwLfcEQU)
 <!-- YOUTUBE:END -->
 
 ---
