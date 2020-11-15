@@ -10,11 +10,11 @@
 
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python WhatsApp Bot | Auto Festival Wishes | Selenium and Pyautogui](https://www.youtube.com/watch?v=302cZx80xFY)
 - [What are HTTP Status Codes | 404 | 500 | Simply Decoded](https://www.youtube.com/watch?v=QB7X5JwWF2U)
 - [What are APIs | REST API | Simply Decoded](https://www.youtube.com/watch?v=qlT3gWvy30E)
 - [#2 Tic Tac Toe - Python Project for Absolute Beginners](https://www.youtube.com/watch?v=AqYyogGkZvE)
 - [Fascinating Space Technologies & Their Growth](https://www.youtube.com/watch?v=zu3boAKu8YM)
-- [#1 Rock Paper & Scissors - Python Project for Beginners](https://www.youtube.com/watch?v=Ov9Xbl7qrCE)
 <!-- YOUTUBE:END -->
 
 ---
