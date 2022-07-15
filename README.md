@@ -8,6 +8,12 @@
 
 ---
 
+#### 📝 Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 #### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [SQL vs NoSQL | Types of Databases | Simply Decoded](https://www.youtube.com/watch?v=f1F1ERdbdoE)
