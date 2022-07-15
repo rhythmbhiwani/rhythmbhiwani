@@ -10,6 +10,11 @@
 
 #### 📝 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Basic Conditional Operations in Python 3](https://logicdecode.in/blog/basic-conditional-operations-in-python-3)
+- [Basic Datatypes in Python 3](https://logicdecode.in/blog/basic-datatypes-in-python-3)
+- [Install Python 3 in Windows 10/11 or Ubuntu Easily](https://logicdecode.in/blog/install-python-in-windows-and-linux)
+- [Why to learn Python 3 in 2022 ?](https://logicdecode.in/blog/why-to-learn-python-in-2022)
+- [Welcome to Logic Decode Blogs](https://logicdecode.in/blog/welcome-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
