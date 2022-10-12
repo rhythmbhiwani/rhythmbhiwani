@@ -14,7 +14,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **Time Management**
 
 - 👨‍💻 Check out my portfolio at [rhythmbhiwani.in](https://rhythmbhiwani.in)
 
