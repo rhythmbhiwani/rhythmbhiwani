@@ -43,11 +43,11 @@
 
 ### 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [SQL vs NoSQL | Types of Databases | Simply Decoded](https://www.youtube.com/watch?v=f1F1ERdbdoE)
-- [Top 7 Programming Languages to learn in 2021](https://www.youtube.com/watch?v=IwJn62i3JLc)
-- [Python WhatsApp Bot | Auto Festival Wishes | Selenium and Pyautogui](https://www.youtube.com/watch?v=302cZx80xFY)
-- [What are HTTP Status Codes | 404 | 500 | Simply Decoded](https://www.youtube.com/watch?v=QB7X5JwWF2U)
-- [What are APIs | REST API | Simply Decoded](https://www.youtube.com/watch?v=qlT3gWvy30E)
+- [#5 YouTube Downloader - Python Projects for Beginners](https://www.youtube.com/watch?v=9rCwLw8Zngg)
+- [#6 Random Password Generator - Python Projects for Beginners](https://www.youtube.com/watch?v=BxteBmqNoSA)
+- [#7 Currency Converter - Python Projects for Beginners](https://www.youtube.com/watch?v=XJv4s7zNOZE)
+- [#3 Weather App - Python Projects for Beginners](https://www.youtube.com/watch?v=axO3Aed1omY)
+- [#4 Bulk rename files/folders - Python Project for Beginners](https://www.youtube.com/watch?v=70_uLBboqLM)
 <!-- YOUTUBE:END -->
 
 ---
