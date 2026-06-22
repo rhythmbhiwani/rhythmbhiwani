@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Capstone: Build a Chat-With-Your-Notes AI App](https://logicdecode.in/blog/build-an-ai-app-capstone)
+- [LLM Apps: Tokens, Cost, Latency and Safety](https://logicdecode.in/blog/llm-cost-tokens-and-safety)
 - [Build a Simple AI Agent in Python](https://logicdecode.in/blog/build-an-llm-agent)
 - [RAG: Chat With Your Own Documents in Python](https://logicdecode.in/blog/rag-chat-with-your-documents)
 - [Embeddings and Semantic Search, Explained](https://logicdecode.in/blog/embeddings-and-semantic-search)
-- [Tool Calling: Let the LLM Use Your Functions](https://logicdecode.in/blog/llm-tool-calling)
-- [Control LLM Output: Temperature, Tokens, Streaming](https://logicdecode.in/blog/controlling-llm-output)
 <!-- BLOG-POST-LIST:END -->
 
 ---
