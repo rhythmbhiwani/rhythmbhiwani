@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Variables: let, const and var Explained](https://logicdecode.in/blog/javascript-variables-let-const)
+- [Why Learn JavaScript in 2026 &lpar;and Where It Runs&rpar;](https://logicdecode.in/blog/why-learn-javascript)
 - [Capstone: Build a Chat-With-Your-Notes AI App](https://logicdecode.in/blog/build-an-ai-app-capstone)
 - [LLM Apps: Tokens, Cost, Latency and Safety](https://logicdecode.in/blog/llm-cost-tokens-and-safety)
 - [Build a Simple AI Agent in Python](https://logicdecode.in/blog/build-an-llm-agent)
-- [RAG: Chat With Your Own Documents in Python](https://logicdecode.in/blog/rag-chat-with-your-documents)
-- [Embeddings and Semantic Search, Explained](https://logicdecode.in/blog/embeddings-and-semantic-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
