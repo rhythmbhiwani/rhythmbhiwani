@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Vercel Eve: An AI Agent Is Just a Folder of Files](https://logicdecode.in/blog/vercel-eve-agent-framework-2026)
+- [JavaScript Data Types: Numbers, Strings, Booleans](https://logicdecode.in/blog/javascript-data-types)
+- [JavaScript Strings and Template Literals, Explained](https://logicdecode.in/blog/javascript-strings-and-template-literals)
 - [JavaScript Variables: let, const and var Explained](https://logicdecode.in/blog/javascript-variables-let-const)
 - [Why Learn JavaScript in 2026 &lpar;and Where It Runs&rpar;](https://logicdecode.in/blog/why-learn-javascript)
-- [Capstone: Build a Chat-With-Your-Notes AI App](https://logicdecode.in/blog/build-an-ai-app-capstone)
-- [LLM Apps: Tokens, Cost, Latency and Safety](https://logicdecode.in/blog/llm-cost-tokens-and-safety)
-- [Build a Simple AI Agent in Python](https://logicdecode.in/blog/build-an-llm-agent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
