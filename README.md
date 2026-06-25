@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Loops: for, while and for...of](https://logicdecode.in/blog/javascript-loops)
+- [JavaScript Operators and if/else Conditionals](https://logicdecode.in/blog/javascript-operators-and-conditionals)
 - [Vercel Eve: An AI Agent Is Just a Folder of Files](https://logicdecode.in/blog/vercel-eve-agent-framework-2026)
 - [JavaScript Data Types: Numbers, Strings, Booleans](https://logicdecode.in/blog/javascript-data-types)
 - [JavaScript Strings and Template Literals, Explained](https://logicdecode.in/blog/javascript-strings-and-template-literals)
-- [JavaScript Variables: let, const and var Explained](https://logicdecode.in/blog/javascript-variables-let-const)
-- [Why Learn JavaScript in 2026 &lpar;and Where It Runs&rpar;](https://logicdecode.in/blog/why-learn-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
