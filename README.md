@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Arrow Functions and Scope, Explained](https://logicdecode.in/blog/javascript-arrow-functions-and-scope)
+- [JavaScript Functions: Parameters and Return Values](https://logicdecode.in/blog/javascript-functions)
 - [JavaScript Loops: for, while and for...of](https://logicdecode.in/blog/javascript-loops)
 - [JavaScript Operators and if/else Conditionals](https://logicdecode.in/blog/javascript-operators-and-conditionals)
 - [Vercel Eve: An AI Agent Is Just a Folder of Files](https://logicdecode.in/blog/vercel-eve-agent-framework-2026)
-- [JavaScript Data Types: Numbers, Strings, Booleans](https://logicdecode.in/blog/javascript-data-types)
-- [JavaScript Strings and Template Literals, Explained](https://logicdecode.in/blog/javascript-strings-and-template-literals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
