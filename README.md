@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Callbacks and Promises, Explained](https://logicdecode.in/blog/javascript-callbacks-and-promises)
+- [JavaScript Events: Clicks, Input and Listeners](https://logicdecode.in/blog/javascript-events)
+- [Prompt Injection: The #1 Security Risk for AI Apps](https://logicdecode.in/blog/prompt-injection-llm-security-2026)
 - [JavaScript Objects: Properties, Methods and this](https://logicdecode.in/blog/javascript-objects)
 - [The JavaScript DOM: Select and Change the Page](https://logicdecode.in/blog/javascript-the-dom)
-- [JavaScript map, filter and reduce, Explained](https://logicdecode.in/blog/javascript-array-methods-map-filter-reduce)
-- [JavaScript Arrays: Create, Access and Change Lists](https://logicdecode.in/blog/javascript-arrays)
-- [JavaScript Arrow Functions and Scope, Explained](https://logicdecode.in/blog/javascript-arrow-functions-and-scope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
