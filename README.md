@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript async/await and the fetch API](https://logicdecode.in/blog/javascript-async-await-and-fetch)
+- [JavaScript Project: Build an Interactive Quiz App](https://logicdecode.in/blog/javascript-mini-project)
+- [WhatsApp Usernames Are Here: Hide Your Number](https://logicdecode.in/blog/whatsapp-usernames-privacy-2026)
 - [JavaScript Callbacks and Promises, Explained](https://logicdecode.in/blog/javascript-callbacks-and-promises)
 - [JavaScript Events: Clicks, Input and Listeners](https://logicdecode.in/blog/javascript-events)
-- [Prompt Injection: The #1 Security Risk for AI Apps](https://logicdecode.in/blog/prompt-injection-llm-security-2026)
-- [JavaScript Objects: Properties, Methods and this](https://logicdecode.in/blog/javascript-objects)
-- [The JavaScript DOM: Select and Change the Page](https://logicdecode.in/blog/javascript-the-dom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
