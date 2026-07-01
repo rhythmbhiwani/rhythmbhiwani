@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [HTML Forms and Inputs: A Practical Guide](https://logicdecode.in/blog/html-forms-and-inputs)
+- [HTML Structure and Semantic Tags, Explained](https://logicdecode.in/blog/html-structure-and-semantics)
+- [Claude Sonnet 5 vs Opus 4.8: When to Pay More](https://logicdecode.in/blog/claude-sonnet-5-vs-opus-when-to-pay-2026)
+- [Claude Science: Why the Model Isn&#39;t the Moat](https://logicdecode.in/blog/claude-science-workflow-moat-2026)
 - [JavaScript async/await and the fetch API](https://logicdecode.in/blog/javascript-async-await-and-fetch)
-- [JavaScript Project: Build an Interactive Quiz App](https://logicdecode.in/blog/javascript-mini-project)
-- [WhatsApp Usernames Are Here: Hide Your Number](https://logicdecode.in/blog/whatsapp-usernames-privacy-2026)
-- [JavaScript Callbacks and Promises, Explained](https://logicdecode.in/blog/javascript-callbacks-and-promises)
-- [JavaScript Events: Clicks, Input and Listeners](https://logicdecode.in/blog/javascript-events)
 <!-- BLOG-POST-LIST:END -->
 
 ---
