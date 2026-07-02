@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [CSS Colors, Units and Typography Basics](https://logicdecode.in/blog/css-colors-units-and-typography)
+- [CSS Selectors and the Box Model, Explained](https://logicdecode.in/blog/css-selectors-and-the-box-model)
+- [Claude Fable 5 Is Back Online, and Free Until July 7](https://logicdecode.in/blog/claude-fable-5-is-back-2026)
 - [HTML Forms and Inputs: A Practical Guide](https://logicdecode.in/blog/html-forms-and-inputs)
 - [HTML Structure and Semantic Tags, Explained](https://logicdecode.in/blog/html-structure-and-semantics)
-- [Claude Sonnet 5 vs Opus 4.8: When to Pay More](https://logicdecode.in/blog/claude-sonnet-5-vs-opus-when-to-pay-2026)
-- [Claude Science: Why the Model Isn&#39;t the Moat](https://logicdecode.in/blog/claude-science-workflow-moat-2026)
-- [JavaScript async/await and the fetch API](https://logicdecode.in/blog/javascript-async-await-and-fetch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
