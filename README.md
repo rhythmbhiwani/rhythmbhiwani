@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [CSS Flexbox: One-Dimensional Layout, Explained](https://logicdecode.in/blog/css-flexbox)
+- [CSS Grid: Two-Dimensional Layout, Explained](https://logicdecode.in/blog/css-grid)
 - [CSS Colors, Units and Typography Basics](https://logicdecode.in/blog/css-colors-units-and-typography)
 - [CSS Selectors and the Box Model, Explained](https://logicdecode.in/blog/css-selectors-and-the-box-model)
 - [Claude Fable 5 Is Back Online, and Free Until July 7](https://logicdecode.in/blog/claude-fable-5-is-back-2026)
-- [HTML Forms and Inputs: A Practical Guide](https://logicdecode.in/blog/html-forms-and-inputs)
-- [HTML Structure and Semantic Tags, Explained](https://logicdecode.in/blog/html-structure-and-semantics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
