@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [CSS Transitions and Animations, Explained](https://logicdecode.in/blog/css-transitions-and-animations)
+- [Modern CSS in 2026: :has&lpar;&rpar;, Container Queries](https://logicdecode.in/blog/modern-css-features)
 - [CSS Positioning and z-index, Demystified](https://logicdecode.in/blog/css-positioning-and-z-index)
 - [Responsive Web Design with CSS Media Queries](https://logicdecode.in/blog/css-responsive-design-media-queries)
 - [CSS Flexbox: One-Dimensional Layout, Explained](https://logicdecode.in/blog/css-flexbox)
-- [CSS Grid: Two-Dimensional Layout, Explained](https://logicdecode.in/blog/css-grid)
-- [CSS Colors, Units and Typography Basics](https://logicdecode.in/blog/css-colors-units-and-typography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
