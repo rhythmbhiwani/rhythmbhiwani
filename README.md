@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [CSS Project: Build a Responsive Landing Page](https://logicdecode.in/blog/css-landing-page-project)
+- [Build a Responsive Card Layout with CSS Grid](https://logicdecode.in/blog/css-responsive-card-layout)
 - [CSS Transitions and Animations, Explained](https://logicdecode.in/blog/css-transitions-and-animations)
 - [Modern CSS in 2026: :has&lpar;&rpar;, Container Queries](https://logicdecode.in/blog/modern-css-features)
 - [CSS Positioning and z-index, Demystified](https://logicdecode.in/blog/css-positioning-and-z-index)
-- [Responsive Web Design with CSS Media Queries](https://logicdecode.in/blog/css-responsive-design-media-queries)
-- [CSS Flexbox: One-Dimensional Layout, Explained](https://logicdecode.in/blog/css-flexbox)
 <!-- BLOG-POST-LIST:END -->
 
 ---
