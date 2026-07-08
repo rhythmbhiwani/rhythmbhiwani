@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [React Components and Props, Explained](https://logicdecode.in/blog/react-components-and-props)
+- [React State with the useState Hook](https://logicdecode.in/blog/react-state-usestate)
+- [HTTP QUERY: A Safe, Cacheable Method With a Body](https://logicdecode.in/blog/http-query-method-rfc-10008-2026)
 - [React JSX, Explained: HTML in Your JavaScript](https://logicdecode.in/blog/react-jsx)
 - [Why React? Components and the UI Mental Model](https://logicdecode.in/blog/why-react)
-- [CSS Project: Build a Responsive Landing Page](https://logicdecode.in/blog/css-landing-page-project)
-- [Build a Responsive Card Layout with CSS Grid](https://logicdecode.in/blog/css-responsive-card-layout)
-- [CSS Transitions and Animations, Explained](https://logicdecode.in/blog/css-transitions-and-animations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
