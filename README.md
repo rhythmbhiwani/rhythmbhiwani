@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Handling Events in React, Explained](https://logicdecode.in/blog/react-handling-events)
+- [React Lists and Keys: Rendering Arrays](https://logicdecode.in/blog/react-lists-and-keys)
 - [React Components and Props, Explained](https://logicdecode.in/blog/react-components-and-props)
 - [React State with the useState Hook](https://logicdecode.in/blog/react-state-usestate)
 - [HTTP QUERY: A Safe, Cacheable Method With a Body](https://logicdecode.in/blog/http-query-method-rfc-10008-2026)
-- [React JSX, Explained: HTML in Your JavaScript](https://logicdecode.in/blog/react-jsx)
-- [Why React? Components and the UI Mental Model](https://logicdecode.in/blog/why-react)
 <!-- BLOG-POST-LIST:END -->
 
 ---
