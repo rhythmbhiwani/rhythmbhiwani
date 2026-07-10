@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Conditional Rendering in React, Explained](https://logicdecode.in/blog/react-conditional-rendering)
+- [React Forms and Controlled Components](https://logicdecode.in/blog/react-controlled-forms)
+- [Microsoft Is Quietly Swapping the AI Inside Copilot](https://logicdecode.in/blog/microsoft-mai-models-copilot-2026)
 - [Handling Events in React, Explained](https://logicdecode.in/blog/react-handling-events)
 - [React Lists and Keys: Rendering Arrays](https://logicdecode.in/blog/react-lists-and-keys)
-- [React Components and Props, Explained](https://logicdecode.in/blog/react-components-and-props)
-- [React State with the useState Hook](https://logicdecode.in/blog/react-state-usestate)
-- [HTTP QUERY: A Safe, Cacheable Method With a Body](https://logicdecode.in/blog/http-query-method-rfc-10008-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
