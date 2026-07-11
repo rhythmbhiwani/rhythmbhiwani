@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fetching Data in React with useEffect and fetch](https://logicdecode.in/blog/react-fetching-data)
+- [React useEffect: Side Effects, Explained](https://logicdecode.in/blog/react-useeffect)
 - [Conditional Rendering in React, Explained](https://logicdecode.in/blog/react-conditional-rendering)
 - [React Forms and Controlled Components](https://logicdecode.in/blog/react-controlled-forms)
 - [Microsoft Is Quietly Swapping the AI Inside Copilot](https://logicdecode.in/blog/microsoft-mai-models-copilot-2026)
-- [Handling Events in React, Explained](https://logicdecode.in/blog/react-handling-events)
-- [React Lists and Keys: Rendering Arrays](https://logicdecode.in/blog/react-lists-and-keys)
 <!-- BLOG-POST-LIST:END -->
 
 ---
