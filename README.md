@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [React Composition Patterns That Scale](https://logicdecode.in/blog/react-composition-patterns)
+- [React Project: Build a Todo App with Hooks](https://logicdecode.in/blog/react-todo-app-project)
 - [React Context: Share State Without Prop Drilling](https://logicdecode.in/blog/react-context)
 - [React Custom Hooks: Reuse Logic Cleanly](https://logicdecode.in/blog/react-custom-hooks)
 - [Fetching Data in React with useEffect and fetch](https://logicdecode.in/blog/react-fetching-data)
-- [React useEffect: Side Effects, Explained](https://logicdecode.in/blog/react-useeffect)
-- [Conditional Rendering in React, Explained](https://logicdecode.in/blog/react-conditional-rendering)
 <!-- BLOG-POST-LIST:END -->
 
 ---
