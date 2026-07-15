@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Functions and Type Inference](https://logicdecode.in/blog/typescript-functions-and-inference)
+- [TypeScript Interfaces vs Type Aliases](https://logicdecode.in/blog/typescript-interfaces-and-types)
 - [TypeScript Basic Types, Explained](https://logicdecode.in/blog/typescript-basic-types)
 - [Why TypeScript? Catch Bugs Before You Run](https://logicdecode.in/blog/why-typescript)
 - [React Composition Patterns That Scale](https://logicdecode.in/blog/react-composition-patterns)
-- [React Project: Build a Todo App with Hooks](https://logicdecode.in/blog/react-todo-app-project)
-- [React Context: Share State Without Prop Drilling](https://logicdecode.in/blog/react-context)
 <!-- BLOG-POST-LIST:END -->
 
 ---
