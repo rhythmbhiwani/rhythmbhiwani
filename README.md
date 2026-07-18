@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Migrate a JavaScript Project to TypeScript](https://logicdecode.in/blog/typescript-migrate-a-js-project)
+- [TypeScript Utility Types You&#39;ll Actually Use](https://logicdecode.in/blog/typescript-utility-types)
 - [TypeScript Generics, Finally Explained](https://logicdecode.in/blog/typescript-generics)
 - [Using TypeScript with React, Practically](https://logicdecode.in/blog/typescript-with-react)
 - [TypeScript Arrays, Objects and Tuples](https://logicdecode.in/blog/typescript-arrays-objects-tuples)
-- [TypeScript Union Types and Narrowing](https://logicdecode.in/blog/typescript-unions-and-narrowing)
-- [TypeScript Functions and Type Inference](https://logicdecode.in/blog/typescript-functions-and-inference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
