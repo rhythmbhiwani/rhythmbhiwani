@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQL ORDER BY, LIMIT and DISTINCT](https://logicdecode.in/blog/sql-order-by-and-limit)
+- [SQL WHERE: Filtering Rows with Conditions](https://logicdecode.in/blog/sql-where-filtering)
 - [SQL SELECT Basics: Querying Your Data](https://logicdecode.in/blog/sql-select-basics)
 - [Why Learn SQL in 2026 &lpar;and What a Database Is&rpar;](https://logicdecode.in/blog/why-learn-sql)
 - [Migrate a JavaScript Project to TypeScript](https://logicdecode.in/blog/typescript-migrate-a-js-project)
-- [TypeScript Utility Types You&#39;ll Actually Use](https://logicdecode.in/blog/typescript-utility-types)
-- [TypeScript Generics, Finally Explained](https://logicdecode.in/blog/typescript-generics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
