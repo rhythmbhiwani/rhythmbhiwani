@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQL Aggregate Functions: COUNT, SUM, AVG](https://logicdecode.in/blog/sql-aggregate-functions)
+- [SQL GROUP BY and HAVING, Explained](https://logicdecode.in/blog/sql-group-by-and-having)
 - [SQL ORDER BY, LIMIT and DISTINCT](https://logicdecode.in/blog/sql-order-by-and-limit)
 - [SQL WHERE: Filtering Rows with Conditions](https://logicdecode.in/blog/sql-where-filtering)
 - [SQL SELECT Basics: Querying Your Data](https://logicdecode.in/blog/sql-select-basics)
-- [Why Learn SQL in 2026 &lpar;and What a Database Is&rpar;](https://logicdecode.in/blog/why-learn-sql)
-- [Migrate a JavaScript Project to TypeScript](https://logicdecode.in/blog/typescript-migrate-a-js-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
