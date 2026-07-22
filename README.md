@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQL Joins: INNER, LEFT and How They Work](https://logicdecode.in/blog/sql-joins)
+- [SQL Subqueries and Nested Queries](https://logicdecode.in/blog/sql-subqueries)
 - [SQL Aggregate Functions: COUNT, SUM, AVG](https://logicdecode.in/blog/sql-aggregate-functions)
 - [SQL GROUP BY and HAVING, Explained](https://logicdecode.in/blog/sql-group-by-and-having)
 - [SQL ORDER BY, LIMIT and DISTINCT](https://logicdecode.in/blog/sql-order-by-and-limit)
-- [SQL WHERE: Filtering Rows with Conditions](https://logicdecode.in/blog/sql-where-filtering)
-- [SQL SELECT Basics: Querying Your Data](https://logicdecode.in/blog/sql-select-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
