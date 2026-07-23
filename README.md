@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Creating Tables and Schema in SQL](https://logicdecode.in/blog/sql-create-tables-and-schema)
+- [SQL INSERT, UPDATE and DELETE](https://logicdecode.in/blog/sql-insert-update-delete)
 - [SQL Joins: INNER, LEFT and How They Work](https://logicdecode.in/blog/sql-joins)
 - [SQL Subqueries and Nested Queries](https://logicdecode.in/blog/sql-subqueries)
 - [SQL Aggregate Functions: COUNT, SUM, AVG](https://logicdecode.in/blog/sql-aggregate-functions)
-- [SQL GROUP BY and HAVING, Explained](https://logicdecode.in/blog/sql-group-by-and-having)
-- [SQL ORDER BY, LIMIT and DISTINCT](https://logicdecode.in/blog/sql-order-by-and-limit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
