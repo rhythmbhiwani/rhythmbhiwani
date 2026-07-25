@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQL Project: Design and Query a Database](https://logicdecode.in/blog/sql-project-build-a-database)
+- [SQL Window Functions, Explained Simply](https://logicdecode.in/blog/sql-window-functions)
 - [SQL Indexes and Query Performance](https://logicdecode.in/blog/sql-indexes-and-performance)
 - [Database Relationships and Foreign Keys](https://logicdecode.in/blog/sql-relationships-and-foreign-keys)
 - [Creating Tables and Schema in SQL](https://logicdecode.in/blog/sql-create-tables-and-schema)
-- [SQL INSERT, UPDATE and DELETE](https://logicdecode.in/blog/sql-insert-update-delete)
-- [SQL Joins: INNER, LEFT and How They Work](https://logicdecode.in/blog/sql-joins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
