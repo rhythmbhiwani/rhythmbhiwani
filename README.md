@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Git History: log, diff and show](https://logicdecode.in/blog/git-history-and-diff)
+- [Git Staging and Commits, Explained](https://logicdecode.in/blog/git-staging-and-commits)
 - [Git Basics: Create Your First Repository](https://logicdecode.in/blog/git-first-repo)
 - [Why Git? Version Control, Explained](https://logicdecode.in/blog/why-git)
 - [SQL Project: Design and Query a Database](https://logicdecode.in/blog/sql-project-build-a-database)
-- [SQL Window Functions, Explained Simply](https://logicdecode.in/blog/sql-window-functions)
-- [SQL Indexes and Query Performance](https://logicdecode.in/blog/sql-indexes-and-performance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
