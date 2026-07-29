@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Git Remotes and GitHub: push, pull, clone](https://logicdecode.in/blog/git-remotes-and-github)
+- [Undoing Changes in Git Safely](https://logicdecode.in/blog/git-undoing-changes)
+- [WebMCP in Chrome: Your Site as a Tool for AI Agents](https://logicdecode.in/blog/webmcp-chrome-agent-tools-2026)
+- [The Hugging Face Hack: How an AI Agent Breached Production](https://logicdecode.in/blog/hugging-face-ai-agent-breach-2026)
 - [Git Branches, Explained Visually](https://logicdecode.in/blog/git-branches)
-- [Git Merging and Resolving Conflicts](https://logicdecode.in/blog/git-merging-and-conflicts)
-- [Git History: log, diff and show](https://logicdecode.in/blog/git-history-and-diff)
-- [Git Staging and Commits, Explained](https://logicdecode.in/blog/git-staging-and-commits)
-- [Git Basics: Create Your First Repository](https://logicdecode.in/blog/git-first-repo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
