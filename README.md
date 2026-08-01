@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Command Line Navigation: pwd, ls and cd](https://logicdecode.in/blog/cli-navigation)
+- [Why the Command Line? A Developer&#39;s Superpower](https://logicdecode.in/blog/why-the-command-line)
 - [Git Project: A Real Feature-Branch Workflow](https://logicdecode.in/blog/git-workflow-project)
 - [.gitignore and Git Best Practices](https://logicdecode.in/blog/gitignore-and-best-practices)
 - [The Regex That Broke Cloudflare: ReDoS Explained](https://logicdecode.in/blog/cloudflare-regex-outage-redos-lessons)
-- [Pull Requests and Collaborating on GitHub](https://logicdecode.in/blog/git-pull-requests)
-- [Git Rebase vs Merge: When to Use Each](https://logicdecode.in/blog/git-rebase-vs-merge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
