@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Searching the Command Line: grep and find](https://logicdecode.in/blog/cli-grep-and-find)
+- [Pipes and Redirection in the Shell](https://logicdecode.in/blog/cli-pipes-and-redirection)
 - [Creating and Managing Files in the Terminal](https://logicdecode.in/blog/cli-files-and-directories)
 - [Viewing and Editing Files in the Terminal](https://logicdecode.in/blog/cli-viewing-files)
 - [Command Line Navigation: pwd, ls and cd](https://logicdecode.in/blog/cli-navigation)
-- [Why the Command Line? A Developer&#39;s Superpower](https://logicdecode.in/blog/why-the-command-line)
-- [Git Project: A Real Feature-Branch Workflow](https://logicdecode.in/blog/git-workflow-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
