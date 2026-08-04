@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Environment Variables and the PATH, Explained](https://logicdecode.in/blog/cli-environment-and-path)
+- [Understanding File Permissions: chmod Explained](https://logicdecode.in/blog/cli-permissions)
 - [Searching the Command Line: grep and find](https://logicdecode.in/blog/cli-grep-and-find)
 - [Pipes and Redirection in the Shell](https://logicdecode.in/blog/cli-pipes-and-redirection)
 - [Creating and Managing Files in the Terminal](https://logicdecode.in/blog/cli-files-and-directories)
-- [Viewing and Editing Files in the Terminal](https://logicdecode.in/blog/cli-viewing-files)
-- [Command Line Navigation: pwd, ls and cd](https://logicdecode.in/blog/cli-navigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
