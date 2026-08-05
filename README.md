@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Command Line Project: Automate a Task with a Script](https://logicdecode.in/blog/cli-scripting-project)
+- [Shell Scripting Basics: Your First Bash Script](https://logicdecode.in/blog/cli-shell-scripting-basics)
 - [Environment Variables and the PATH, Explained](https://logicdecode.in/blog/cli-environment-and-path)
 - [Understanding File Permissions: chmod Explained](https://logicdecode.in/blog/cli-permissions)
 - [Searching the Command Line: grep and find](https://logicdecode.in/blog/cli-grep-and-find)
-- [Pipes and Redirection in the Shell](https://logicdecode.in/blog/cli-pipes-and-redirection)
-- [Creating and Managing Files in the Terminal](https://logicdecode.in/blog/cli-files-and-directories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
