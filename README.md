@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your First Docker Container: docker run](https://logicdecode.in/blog/docker-first-container)
+- [Why Docker? Containers vs Virtual Machines](https://logicdecode.in/blog/why-docker)
 - [Command Line Project: Automate a Task with a Script](https://logicdecode.in/blog/cli-scripting-project)
 - [Shell Scripting Basics: Your First Bash Script](https://logicdecode.in/blog/cli-shell-scripting-basics)
 - [Environment Variables and the PATH, Explained](https://logicdecode.in/blog/cli-environment-and-path)
-- [Understanding File Permissions: chmod Explained](https://logicdecode.in/blog/cli-permissions)
-- [Searching the Command Line: grep and find](https://logicdecode.in/blog/cli-grep-and-find)
 <!-- BLOG-POST-LIST:END -->
 
 ---
