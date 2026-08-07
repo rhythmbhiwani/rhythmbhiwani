@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Docker Images vs Containers, Explained](https://logicdecode.in/blog/docker-images-vs-containers)
+- [Dockerfile Basics: Build Your Own Image](https://logicdecode.in/blog/dockerfile-basics)
 - [Your First Docker Container: docker run](https://logicdecode.in/blog/docker-first-container)
 - [Why Docker? Containers vs Virtual Machines](https://logicdecode.in/blog/why-docker)
 - [Command Line Project: Automate a Task with a Script](https://logicdecode.in/blog/cli-scripting-project)
-- [Shell Scripting Basics: Your First Bash Script](https://logicdecode.in/blog/cli-shell-scripting-basics)
-- [Environment Variables and the PATH, Explained](https://logicdecode.in/blog/cli-environment-and-path)
 <!-- BLOG-POST-LIST:END -->
 
 ---
