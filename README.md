@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose: Run Multi-Container Apps](https://logicdecode.in/blog/docker-compose)
+- [Docker Environment Variables and Networking](https://logicdecode.in/blog/docker-environment-and-networking)
 - [Docker Image Layers and Build Caching](https://logicdecode.in/blog/docker-layers-and-caching)
 - [Docker Ports and Volumes, Explained](https://logicdecode.in/blog/docker-ports-and-volumes)
 - [Docker Images vs Containers, Explained](https://logicdecode.in/blog/docker-images-vs-containers)
-- [Dockerfile Basics: Build Your Own Image](https://logicdecode.in/blog/dockerfile-basics)
-- [Your First Docker Container: docker run](https://logicdecode.in/blog/docker-first-container)
 <!-- BLOG-POST-LIST:END -->
 
 ---
