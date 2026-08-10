@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices: Smaller, Safer Images](https://logicdecode.in/blog/docker-best-practices)
+- [Docker Project: Containerize a Web App](https://logicdecode.in/blog/docker-containerize-an-app)
 - [Docker Compose: Run Multi-Container Apps](https://logicdecode.in/blog/docker-compose)
 - [Docker Environment Variables and Networking](https://logicdecode.in/blog/docker-environment-and-networking)
 - [Docker Image Layers and Build Caching](https://logicdecode.in/blog/docker-layers-and-caching)
-- [Docker Ports and Volumes, Explained](https://logicdecode.in/blog/docker-ports-and-volumes)
-- [Docker Images vs Containers, Explained](https://logicdecode.in/blog/docker-images-vs-containers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
