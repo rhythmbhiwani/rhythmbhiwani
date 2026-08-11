@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Big-O Notation: Measuring How Code Scales](https://logicdecode.in/blog/big-o-notation)
+- [Why Data Structures &amp; Algorithms &lpar;and How to Think About Speed&rpar;](https://logicdecode.in/blog/why-data-structures-and-algorithms)
 - [Docker Best Practices: Smaller, Safer Images](https://logicdecode.in/blog/docker-best-practices)
 - [Docker Project: Containerize a Web App](https://logicdecode.in/blog/docker-containerize-an-app)
 - [Docker Compose: Run Multi-Container Apps](https://logicdecode.in/blog/docker-compose)
-- [Docker Environment Variables and Networking](https://logicdecode.in/blog/docker-environment-and-networking)
-- [Docker Image Layers and Build Caching](https://logicdecode.in/blog/docker-layers-and-caching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
