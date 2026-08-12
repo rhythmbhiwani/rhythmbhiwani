@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Arrays &amp; Strings: The Workhorse Data Structure](https://logicdecode.in/blog/arrays-and-strings)
+- [Hash Maps &amp; Sets: O&lpar;1&rpar; Lookups Explained](https://logicdecode.in/blog/hash-maps-and-sets)
 - [Big-O Notation: Measuring How Code Scales](https://logicdecode.in/blog/big-o-notation)
 - [Why Data Structures &amp; Algorithms &lpar;and How to Think About Speed&rpar;](https://logicdecode.in/blog/why-data-structures-and-algorithms)
 - [Docker Best Practices: Smaller, Safer Images](https://logicdecode.in/blog/docker-best-practices)
-- [Docker Project: Containerize a Web App](https://logicdecode.in/blog/docker-containerize-an-app)
-- [Docker Compose: Run Multi-Container Apps](https://logicdecode.in/blog/docker-compose)
 <!-- BLOG-POST-LIST:END -->
 
 ---
