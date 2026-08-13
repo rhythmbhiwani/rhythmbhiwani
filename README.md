@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Recursion &amp; the Call Stack](https://logicdecode.in/blog/recursion-and-the-call-stack)
+- [Two Pointers &amp; the Sliding Window](https://logicdecode.in/blog/two-pointers-and-sliding-window)
 - [Arrays &amp; Strings: The Workhorse Data Structure](https://logicdecode.in/blog/arrays-and-strings)
 - [Hash Maps &amp; Sets: O&lpar;1&rpar; Lookups Explained](https://logicdecode.in/blog/hash-maps-and-sets)
 - [Big-O Notation: Measuring How Code Scales](https://logicdecode.in/blog/big-o-notation)
-- [Why Data Structures &amp; Algorithms &lpar;and How to Think About Speed&rpar;](https://logicdecode.in/blog/why-data-structures-and-algorithms)
-- [Docker Best Practices: Smaller, Safer Images](https://logicdecode.in/blog/docker-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
