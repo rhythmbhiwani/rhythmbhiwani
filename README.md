@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Sorting II: Merge Sort &amp; Quicksort](https://logicdecode.in/blog/merge-sort-and-quicksort)
+- [Sorting I: Bubble, Selection &amp; Insertion](https://logicdecode.in/blog/sorting-basics)
 - [Recursion &amp; the Call Stack](https://logicdecode.in/blog/recursion-and-the-call-stack)
 - [Two Pointers &amp; the Sliding Window](https://logicdecode.in/blog/two-pointers-and-sliding-window)
 - [Arrays &amp; Strings: The Workhorse Data Structure](https://logicdecode.in/blog/arrays-and-strings)
-- [Hash Maps &amp; Sets: O&lpar;1&rpar; Lookups Explained](https://logicdecode.in/blog/hash-maps-and-sets)
-- [Big-O Notation: Measuring How Code Scales](https://logicdecode.in/blog/big-o-notation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
