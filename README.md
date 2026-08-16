@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Linked Lists: Pointers, Nodes &amp; Trade-offs](https://logicdecode.in/blog/linked-lists)
+- [Trees &amp; Binary Trees: Traversals](https://logicdecode.in/blog/trees-and-binary-trees)
 - [Binary Search: Halving the Haystack](https://logicdecode.in/blog/binary-search)
 - [Stacks &amp; Queues: LIFO vs FIFO, Explained](https://logicdecode.in/blog/stacks-and-queues)
 - [Sorting II: Merge Sort &amp; Quicksort](https://logicdecode.in/blog/merge-sort-and-quicksort)
-- [Sorting I: Bubble, Selection &amp; Insertion](https://logicdecode.in/blog/sorting-basics)
-- [Recursion &amp; the Call Stack](https://logicdecode.in/blog/recursion-and-the-call-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
