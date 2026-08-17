@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Binary Search Trees: Ordered in O&lpar;log n&rpar;](https://logicdecode.in/blog/binary-search-trees)
+- [Graphs &amp; Traversal: BFS and DFS](https://logicdecode.in/blog/graphs-and-traversal)
 - [Linked Lists: Pointers, Nodes &amp; Trade-offs](https://logicdecode.in/blog/linked-lists)
 - [Trees &amp; Binary Trees: Traversals](https://logicdecode.in/blog/trees-and-binary-trees)
 - [Binary Search: Halving the Haystack](https://logicdecode.in/blog/binary-search)
-- [Stacks &amp; Queues: LIFO vs FIFO, Explained](https://logicdecode.in/blog/stacks-and-queues)
-- [Sorting II: Merge Sort &amp; Quicksort](https://logicdecode.in/blog/merge-sort-and-quicksort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
