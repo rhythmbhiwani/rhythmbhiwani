@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
-- [California&#39;s AI Transparency Act Is Live: C2PA Explained](https://logicdecode.in/blog/california-ai-transparency-act-c2pa-2026)
-- [Project: Build an LRU Cache](https://logicdecode.in/blog/dsa-project-lru-cache)
-- [Intro to Dynamic Programming: Memoization](https://logicdecode.in/blog/intro-to-dynamic-programming)
-- [Binary Search Trees: Ordered in O&lpar;log n&rpar;](https://logicdecode.in/blog/binary-search-trees)
-- [Graphs &amp; Traversal: BFS and DFS](https://logicdecode.in/blog/graphs-and-traversal)
+- [HTTP: the request and response contract](https://logicdecode.in/blog/http-explained)
+- [Status codes and headers that actually matter](https://logicdecode.in/blog/http-status-codes-and-headers)
+- [DNS: how names become addresses](https://logicdecode.in/blog/dns-explained)
+- [TCP vs UDP: reliable or fast, pick one](https://logicdecode.in/blog/tcp-udp-and-connections)
+- [IP addresses and packets: how data finds you](https://logicdecode.in/blog/ip-addresses-and-packets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
