@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Why HTTP got rewritten twice](https://logicdecode.in/blog/http2-and-http3)
+- [HTTPS and TLS: how the padlock works](https://logicdecode.in/blog/https-and-tls)
 - [HTTP: the request and response contract](https://logicdecode.in/blog/http-explained)
 - [Status codes and headers that actually matter](https://logicdecode.in/blog/http-status-codes-and-headers)
 - [DNS: how names become addresses](https://logicdecode.in/blog/dns-explained)
-- [TCP vs UDP: reliable or fast, pick one](https://logicdecode.in/blog/tcp-udp-and-connections)
-- [IP addresses and packets: how data finds you](https://logicdecode.in/blog/ip-addresses-and-packets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
