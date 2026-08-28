@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Cookies and how sites remember you](https://logicdecode.in/blog/cookies-and-sessions)
+- [CORS: why the browser blocked your request](https://logicdecode.in/blog/cors-explained)
 - [Why HTTP got rewritten twice](https://logicdecode.in/blog/http2-and-http3)
 - [HTTPS and TLS: how the padlock works](https://logicdecode.in/blog/https-and-tls)
 - [HTTP: the request and response contract](https://logicdecode.in/blog/http-explained)
-- [Status codes and headers that actually matter](https://logicdecode.in/blog/http-status-codes-and-headers)
-- [DNS: how names become addresses](https://logicdecode.in/blog/dns-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
