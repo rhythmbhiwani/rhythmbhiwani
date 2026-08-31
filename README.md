@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Express 5: your first routes](https://logicdecode.in/blog/express-getting-started)
+- [Route params, query strings and bodies](https://logicdecode.in/blog/express-routing-and-params)
 - [Your first Node server, no framework](https://logicdecode.in/blog/nodejs-first-server)
 - [What a backend actually does](https://logicdecode.in/blog/why-build-a-backend)
 - [Caching and CDNs: why the second load is instant](https://logicdecode.in/blog/caching-and-cdns)
-- [Project: trace a real request end to end](https://logicdecode.in/blog/internet-project-trace-a-request)
-- [Cookies and how sites remember you](https://logicdecode.in/blog/cookies-and-sessions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
