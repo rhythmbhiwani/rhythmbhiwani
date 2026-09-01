@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Middleware: the chain every request walks](https://logicdecode.in/blog/express-middleware)
+- [Designing a REST API that ages well](https://logicdecode.in/blog/rest-api-design)
 - [Express 5: your first routes](https://logicdecode.in/blog/express-getting-started)
 - [Route params, query strings and bodies](https://logicdecode.in/blog/express-routing-and-params)
 - [Your first Node server, no framework](https://logicdecode.in/blog/nodejs-first-server)
-- [What a backend actually does](https://logicdecode.in/blog/why-build-a-backend)
-- [Caching and CDNs: why the second load is instant](https://logicdecode.in/blog/caching-and-cdns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
