@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Connecting a database](https://logicdecode.in/blog/express-connecting-a-database)
+- [Error handling and the async trap](https://logicdecode.in/blog/express-error-handling)
 - [Middleware: the chain every request walks](https://logicdecode.in/blog/express-middleware)
 - [Designing a REST API that ages well](https://logicdecode.in/blog/rest-api-design)
 - [Express 5: your first routes](https://logicdecode.in/blog/express-getting-started)
-- [Route params, query strings and bodies](https://logicdecode.in/blog/express-routing-and-params)
-- [Your first Node server, no framework](https://logicdecode.in/blog/nodejs-first-server)
 <!-- BLOG-POST-LIST:END -->
 
 ---
