@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Authentication: sessions vs JWT](https://logicdecode.in/blog/api-authentication-sessions-vs-jwt)
+- [Validating input before it ruins your day](https://logicdecode.in/blog/api-validation)
 - [Connecting a database](https://logicdecode.in/blog/express-connecting-a-database)
 - [Error handling and the async trap](https://logicdecode.in/blog/express-error-handling)
 - [Middleware: the chain every request walks](https://logicdecode.in/blog/express-middleware)
-- [Designing a REST API that ages well](https://logicdecode.in/blog/rest-api-design)
-- [Express 5: your first routes](https://logicdecode.in/blog/express-getting-started)
 <!-- BLOG-POST-LIST:END -->
 
 ---
