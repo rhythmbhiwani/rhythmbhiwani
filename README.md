@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [GPT-6 Astra: The AGI Claim vs What the Benchmarks Say](https://logicdecode.in/blog/gpt-6-astra-agi-claim-benchmarks-2026)
+- [Pagination, filtering and sorting](https://logicdecode.in/blog/api-pagination-filtering-sorting)
+- [User accounts and password hashing done right](https://logicdecode.in/blog/password-hashing-and-user-accounts)
+- [GitLab&#39;s 2017 Database Deletion: Five Backups, None Worked](https://logicdecode.in/blog/gitlab-database-deletion-2017-backup-lessons)
 - [Authentication: sessions vs JWT](https://logicdecode.in/blog/api-authentication-sessions-vs-jwt)
-- [Validating input before it ruins your day](https://logicdecode.in/blog/api-validation)
-- [Connecting a database](https://logicdecode.in/blog/express-connecting-a-database)
-- [Error handling and the async trap](https://logicdecode.in/blog/express-error-handling)
-- [Middleware: the chain every request walks](https://logicdecode.in/blog/express-middleware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
