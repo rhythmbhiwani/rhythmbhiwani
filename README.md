@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Project: the Linkstash API end to end](https://logicdecode.in/blog/backend-project-linkstash-api)
+- [Realtime with WebSockets](https://logicdecode.in/blog/websockets-and-realtime)
 - [GPT-6 Astra: The AGI Claim vs What the Benchmarks Say](https://logicdecode.in/blog/gpt-6-astra-agi-claim-benchmarks-2026)
 - [Pagination, filtering and sorting](https://logicdecode.in/blog/api-pagination-filtering-sorting)
 - [User accounts and password hashing done right](https://logicdecode.in/blog/password-hashing-and-user-accounts)
-- [GitLab&#39;s 2017 Database Deletion: Five Backups, None Worked](https://logicdecode.in/blog/gitlab-database-deletion-2017-backup-lessons)
-- [Authentication: sessions vs JWT](https://logicdecode.in/blog/api-authentication-sessions-vs-jwt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
