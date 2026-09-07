@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Arrange, act, assert: the shape of a good test](https://logicdecode.in/blog/arrange-act-assert)
+- [TDD: red, green, refactor](https://logicdecode.in/blog/test-driven-development)
 - [Why write tests](https://logicdecode.in/blog/why-write-tests)
 - [Your first unit test with Vitest](https://logicdecode.in/blog/your-first-unit-test)
 - [Project: the Linkstash API end to end](https://logicdecode.in/blog/backend-project-linkstash-api)
-- [Realtime with WebSockets](https://logicdecode.in/blog/websockets-and-realtime)
-- [GPT-6 Astra: The AGI Claim vs What the Benchmarks Say](https://logicdecode.in/blog/gpt-6-astra-agi-claim-benchmarks-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
