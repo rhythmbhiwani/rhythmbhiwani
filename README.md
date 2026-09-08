@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mocks, stubs and fakes](https://logicdecode.in/blog/mocking-and-stubbing)
+- [Edge cases and the bugs you would have shipped](https://logicdecode.in/blog/testing-edge-cases)
 - [Arrange, act, assert: the shape of a good test](https://logicdecode.in/blog/arrange-act-assert)
 - [TDD: red, green, refactor](https://logicdecode.in/blog/test-driven-development)
 - [Why write tests](https://logicdecode.in/blog/why-write-tests)
-- [Your first unit test with Vitest](https://logicdecode.in/blog/your-first-unit-test)
-- [Project: the Linkstash API end to end](https://logicdecode.in/blog/backend-project-linkstash-api)
 <!-- BLOG-POST-LIST:END -->
 
 ---
