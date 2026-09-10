@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Code coverage and the lies it tells](https://logicdecode.in/blog/code-coverage)
+- [Test databases, fixtures and isolation](https://logicdecode.in/blog/test-database-and-fixtures)
 - [Integration-testing Linkstash](https://logicdecode.in/blog/integration-testing-an-api)
 - [Testing async code without flakes](https://logicdecode.in/blog/testing-async-code)
 - [Mocks, stubs and fakes](https://logicdecode.in/blog/mocking-and-stubbing)
-- [Edge cases and the bugs you would have shipped](https://logicdecode.in/blog/testing-edge-cases)
-- [Arrange, act, assert: the shape of a good test](https://logicdecode.in/blog/arrange-act-assert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
