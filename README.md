@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SQL injection: break it live, then fix it](https://logicdecode.in/blog/sql-injection)
+- [How apps actually get broken](https://logicdecode.in/blog/why-web-security)
 - [Full-Duplex Voice AI, Explained: Inside GPT-Live-1](https://logicdecode.in/blog/full-duplex-voice-ai-gpt-live-2026)
 - [OpenAI&#39;s Navier-Stokes Proof: What Was Actually Proved](https://logicdecode.in/blog/openai-navier-stokes-proof-explained-2026)
 - [Project: tests that run on every push](https://logicdecode.in/blog/testing-project-ci-pipeline)
-- [Testing React components](https://logicdecode.in/blog/testing-react-components)
-- [Code coverage and the lies it tells](https://logicdecode.in/blog/code-coverage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
