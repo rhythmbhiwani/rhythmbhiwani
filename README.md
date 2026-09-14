@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Breaking authentication](https://logicdecode.in/blog/authentication-attacks)
+- [Why your password hash is not good enough](https://logicdecode.in/blog/password-storage-attacks)
 - [CSRF: making the browser betray its user](https://logicdecode.in/blog/csrf-explained)
 - [XSS: running your code on their page](https://logicdecode.in/blog/xss-explained)
 - [SQL injection: break it live, then fix it](https://logicdecode.in/blog/sql-injection)
-- [How apps actually get broken](https://logicdecode.in/blog/why-web-security)
-- [Full-Duplex Voice AI, Explained: Inside GPT-Live-1](https://logicdecode.in/blog/full-duplex-voice-ai-gpt-live-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
