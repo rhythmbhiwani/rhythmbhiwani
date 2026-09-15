@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Broken access control and IDOR](https://logicdecode.in/blog/authorization-and-idor)
+- [Security headers and CSP: the free wins](https://logicdecode.in/blog/security-headers)
 - [Breaking authentication](https://logicdecode.in/blog/authentication-attacks)
 - [Why your password hash is not good enough](https://logicdecode.in/blog/password-storage-attacks)
 - [CSRF: making the browser betray its user](https://logicdecode.in/blog/csrf-explained)
-- [XSS: running your code on their page](https://logicdecode.in/blog/xss-explained)
-- [SQL injection: break it live, then fix it](https://logicdecode.in/blog/sql-injection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
