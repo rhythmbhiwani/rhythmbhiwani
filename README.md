@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Supply chain: the attack you cannot code around](https://logicdecode.in/blog/dependency-supply-chain)
+- [Secrets, env vars and the committed API key](https://logicdecode.in/blog/secrets-and-config)
 - [Broken access control and IDOR](https://logicdecode.in/blog/authorization-and-idor)
 - [Security headers and CSP: the free wins](https://logicdecode.in/blog/security-headers)
 - [Breaking authentication](https://logicdecode.in/blog/authentication-attacks)
-- [Why your password hash is not good enough](https://logicdecode.in/blog/password-storage-attacks)
-- [CSRF: making the browser betray its user](https://logicdecode.in/blog/csrf-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
