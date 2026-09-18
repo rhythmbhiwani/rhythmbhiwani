@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [SSH, keys and getting in safely](https://logicdecode.in/blog/ssh-and-server-access)
+- [What deploying actually means](https://logicdecode.in/blog/why-deploy-to-a-server)
 - [Rate limiting, abuse and denial of wallet](https://logicdecode.in/blog/rate-limiting-and-abuse)
 - [Project: attack and harden Linkstash](https://logicdecode.in/blog/security-project-harden-the-api)
 - [TypeSafe&#39;s Jev: An AI Model That Answers in Types, Not Text](https://logicdecode.in/blog/typesafe-jev-system-one-model-2026)
-- [Supply chain: the attack you cannot code around](https://logicdecode.in/blog/dependency-supply-chain)
-- [Secrets, env vars and the committed API key](https://logicdecode.in/blog/secrets-and-config)
 <!-- BLOG-POST-LIST:END -->
 
 ---
