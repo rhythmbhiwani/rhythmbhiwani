@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Users, groups and permissions on a real server](https://logicdecode.in/blog/linux-users-and-permissions)
+- [Keeping your app running with systemd](https://logicdecode.in/blog/systemd-services)
 - [SSH, keys and getting in safely](https://logicdecode.in/blog/ssh-and-server-access)
 - [What deploying actually means](https://logicdecode.in/blog/why-deploy-to-a-server)
 - [Rate limiting, abuse and denial of wallet](https://logicdecode.in/blog/rate-limiting-and-abuse)
-- [Project: attack and harden Linkstash](https://logicdecode.in/blog/security-project-harden-the-api)
-- [TypeSafe&#39;s Jev: An AI Model That Answers in Types, Not Text](https://logicdecode.in/blog/typesafe-jev-system-one-model-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
