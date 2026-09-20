@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Pointing a domain at your server](https://logicdecode.in/blog/domains-and-dns-setup)
+- [Nginx as a reverse proxy](https://logicdecode.in/blog/nginx-reverse-proxy)
 - [Users, groups and permissions on a real server](https://logicdecode.in/blog/linux-users-and-permissions)
 - [Keeping your app running with systemd](https://logicdecode.in/blog/systemd-services)
 - [SSH, keys and getting in safely](https://logicdecode.in/blog/ssh-and-server-access)
-- [What deploying actually means](https://logicdecode.in/blog/why-deploy-to-a-server)
-- [Rate limiting, abuse and denial of wallet](https://logicdecode.in/blog/rate-limiting-and-abuse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
