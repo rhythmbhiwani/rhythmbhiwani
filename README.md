@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Environment variables and config in production](https://logicdecode.in/blog/environment-and-config)
+- [Free HTTPS with Let&#39;s Encrypt](https://logicdecode.in/blog/https-with-certbot)
 - [Pointing a domain at your server](https://logicdecode.in/blog/domains-and-dns-setup)
 - [Nginx as a reverse proxy](https://logicdecode.in/blog/nginx-reverse-proxy)
 - [Users, groups and permissions on a real server](https://logicdecode.in/blog/linux-users-and-permissions)
-- [Keeping your app running with systemd](https://logicdecode.in/blog/systemd-services)
-- [SSH, keys and getting in safely](https://logicdecode.in/blog/ssh-and-server-access)
 <!-- BLOG-POST-LIST:END -->
 
 ---
