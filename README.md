@@ -32,11 +32,11 @@
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Buys Hugging Face for $12.9B: What Changes for You](https://logicdecode.in/blog/nvidia-acquires-hugging-face-2026)
 - [Project: ship Linkstash to a live URL](https://logicdecode.in/blog/deploy-project-ship-linkstash)
 - [Logs, monitoring and knowing when it breaks](https://logicdecode.in/blog/logs-and-monitoring)
 - [Environment variables and config in production](https://logicdecode.in/blog/environment-and-config)
 - [Free HTTPS with Let&#39;s Encrypt](https://logicdecode.in/blog/https-with-certbot)
-- [Pointing a domain at your server](https://logicdecode.in/blog/domains-and-dns-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
